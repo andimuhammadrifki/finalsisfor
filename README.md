@@ -15,4 +15,5 @@ direktori index.php masih ada. Tapi tenang. Ketika direktori index.php-nya dihap
 
 namun, ada beberapa file yang tidak dapat diupload karena satu dan lain hal, yaitu:
 -file .htaccess (yang digunakan untuk menghilangkan direktori index.php)
+
 -file .DS_Store

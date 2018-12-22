@@ -12,6 +12,8 @@ di dalam file index.php yang tersimpan di folder views/admin (aslinya ada di bar
 -direktori index.php dapat dihilangkan dengan membuat file berekstensi .htaccess. Namun, ketika tab Customer di-klik,
 direktori index.php masih ada. Tapi tenang. Ketika direktori index.php-nya dihapus, tampilannya akan sama.
 
+
 namun, ada beberapa file yang tidak dapat diupload karena satu dan lain hal, yaitu:
 -file .htaccess (yang digunakan untuk menghilangkan direktori index.php)
+
 -file .DS_Store
